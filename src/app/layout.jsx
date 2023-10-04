@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Vishal's Portfolio",
+  title: "Yogesh's Portfolio",
   description: "My Career Highlights",
 };
 
